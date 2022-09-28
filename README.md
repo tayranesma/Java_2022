@@ -9,7 +9,7 @@ hw1 --> https://www.youtube.com/watch?v=a8Fe2qbnYDM&list=PLqG356ExoxZUGwbqoJEKSM
 
         Bu oynatma listesinde 1-23 arasındaki tüm dersleri izleyip uygulayınız.
        
-hw2 --> https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8
+hw2_--> https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8
 
         Bu oynatma listesindeki videoları 24-37 aralığında izleyip uygulayınız.
         
