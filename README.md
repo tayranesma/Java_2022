@@ -13,6 +13,8 @@ hw2_--> https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSM
 
         Bu oynatma listesindeki videoları 24-37 aralığında izleyip uygulayınız.
         
+hw2_2--> https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8
 
+        2. haftanın ödevlerine ek olarak verilen çalışma. Bu oynatma listesindeki 38-45 aralığındaki videoların izlenip uygulanması.
 
 
